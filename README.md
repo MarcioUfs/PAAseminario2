@@ -4,7 +4,7 @@
 
 ---
 
-# ## **1. Introdução**
+# **1. Introdução**
 
 O **problema da Mochila 0-1** (0-1 Knapsack) é um dos problemas clássicos em otimização combinatória e aparece com frequência em situações reais envolvendo seleção de recursos, alocação de itens, planejamento logístico e maximização de lucro. Sua formulação consiste em selecionar um conjunto de itens, cada um com valor e peso, de forma a **maximizar o valor total sem ultrapassar a capacidade** da mochila.
 
