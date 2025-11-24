@@ -110,7 +110,7 @@ O algoritmo é amplamente utilizado em contextos onde decisões binárias precis
 * Organização de cargas de trabalho em clusters.
 
 ---
-# **4. Código fonte
+# **4. Código fonte**
 ```
 import heapq
 
