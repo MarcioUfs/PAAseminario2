@@ -14,9 +14,9 @@ O **Branch and Bound** é uma técnica de busca sistemática baseada em árvore,
 
 ---
 
-# ## **2. Explicação da Técnica Branch and Bound**
+#  **2. Explicação da Técnica Branch and Bound**
 
-### ### **2.1 Estrutura geral da técnica**
+###  **2.1 Estrutura geral da técnica**
 
 O Branch and Bound funciona explorando uma **árvore de decisão**, onde cada nível representa uma escolha:
 
@@ -34,7 +34,7 @@ A estratégia principal consiste em **expandir apenas os nós que ainda podem le
 
 ---
 
-### ### **2.2 Uso de Bound Fracionário (limite superior)**
+### **2.2 Uso de Bound Fracionário (limite superior)**
 
 O coração do Branch and Bound está no cálculo do **bound**, que representa o maior valor possível que um caminho pode atingir — mesmo que usando soluções fracionárias.
 
@@ -51,7 +51,7 @@ Isso evita explorar combinações inteiras que **não têm potencial** para supe
 
 ---
 
-### ### **2.3 Expansão dos nós**
+### **2.3 Expansão dos nós**
 
 Para cada nó extraído da **priority queue** (fila de prioridade baseada no maior bound):
 
@@ -64,7 +64,7 @@ O uso de fila de prioridade transforma o Branch and Bound em uma **busca best-fi
 
 ---
 
-### ### **2.4 Complexidade**
+### **2.4 Complexidade**
 
 Embora o Branch and Bound seja eficiente na prática, a complexidade no pior caso ainda é:
 
@@ -76,34 +76,34 @@ Na prática, entretanto, com itens bem ordenados e um bound ajustado, o número 
 
 ---
 
-# ## **3. Usos Práticos do Branch and Bound com Mochila 0-1**
+# **3. Usos Práticos do Branch and Bound com Mochila 0-1**
 
 O algoritmo é amplamente utilizado em contextos onde decisões binárias precisam ser otimizadas sob restrições. Alguns exemplos:
 
 ---
 
-### ### **3.1 Logística e Transporte**
+### **3.1 Logística e Transporte**
 
 * Escolha de cargas que devem ser transportadas em veículos limitados.
 * Decidir quais produtos enviar para maximizar o lucro.
 
 ---
 
-### ### **3.2 Planejamento de Recursos**
+### **3.2 Planejamento de Recursos**
 
 * Seleção de máquinas, ferramentas ou equipamentos com custos e benefícios.
 * Útil em indústrias que precisam aproveitar ao máximo um orçamento limitado.
 
 ---
 
-### ### **3.3 Finanças e Investimentos**
+### **3.3 Finanças e Investimentos**
 
 * Escolha de carteiras de investimento quando existe limitação de capital.
 * Útil quando não é possível fracionar ativos (como imóveis).
 
 ---
 
-### ### **3.4 Computação e Sistemas**
+### **3.4 Computação e Sistemas**
 
 * Seleção de tarefas com diferentes custos computacionais.
 * Decisões de alocação de memória.
@@ -111,7 +111,7 @@ O algoritmo é amplamente utilizado em contextos onde decisões binárias precis
 
 ---
 
-# ## **4. Conclusão**
+# **4. Conclusão**
 
 O Branch and Bound é uma abordagem poderosa para resolver o problema da Mochila 0-1 de forma exata, explorando a árvore de estados de maneira inteligente e evitando soluções inviáveis. Ele se destaca por:
 
