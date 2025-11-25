@@ -220,9 +220,9 @@ O Branch and Bound é uma abordagem poderosa para resolver o problema da Mochila
 Embora tenha custo exponencial no pior caso, é extremamente eficaz em muitas instâncias reais, sendo uma das técnicas fundamentais no estudo de **projeto e análise de algoritmos**.
 
 # **6. Link Youtube**
-[Branch and Bound Mochila 0-1](https://youtu.be/cktZmid9oag)
+Link para acessar no YouTube [Branch and Bound Mochila 0-1](https://youtu.be/cktZmid9oag)
 
 
 # **7. Como testar**
-Para testar o codigo voçê pode copiar ele diretamente do **GitHub** e acessar o link do[Compilador Python online](https://www.onlinegdb.com/online_python_compiler) colar e dar play ou pode baixar e rodar diretamente no seu computador se já possuir o Python 3 instalado.
+Para testar o codigo voçê pode copiar ele diretamente do **GitHub** e acessar o link do [Compilador Python online](https://www.onlinegdb.com/online_python_compiler) colar e dar play ou pode baixar e rodar diretamente no seu computador se já possuir o Python 3 instalado.
 
