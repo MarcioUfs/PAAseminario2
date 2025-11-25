@@ -220,3 +220,4 @@ O Branch and Bound é uma abordagem poderosa para resolver o problema da Mochila
 Embora tenha custo exponencial no pior caso, é extremamente eficaz em muitas instâncias reais, sendo uma das técnicas fundamentais no estudo de **projeto e análise de algoritmos**.
 
 # **6. Link Youtube**
+[Branch and Bound Mochila 0-1](https://youtu.be/cktZmid9oag)
